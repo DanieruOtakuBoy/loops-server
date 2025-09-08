@@ -41,7 +41,7 @@ return [
     'reportTextPlaceholder1026' => 'Por favor proporciona detalles adicionales sobre tu reporte...',
     'reportTextPlaceholderDefault' => 'Por favor proporciona detalles adicionales...',
     'saveChanges' => 'Guardar cambios',
-    'sensitiveContent' => 'Sensitive Content',
+    'sensitiveContent' => 'Contenido sensible',
     'showLess' => 'Mostrar menos',
     'showThisVideoAtTheTopOfYourProfile' => 'Mostrar este video en la parte superior de tu perfil',
     'signInToLeaveAComment' => 'Inicia sesión para dejar un comentario',
